@@ -1,1 +1,2 @@
 "data/\nresults/\n*.h5ad\n*.csv\n*.ipynb_checkpoints" 
+"~$*.docx" 
