@@ -1,2 +1,17 @@
-"data/\nresults/\n*.h5ad\n*.csv\n*.ipynb_checkpoints" 
-"~$*.docx" 
+# Data and results
+data/
+results/
+
+# Jupyter notebooks
+*.ipynb_checkpoints
+
+# Large files
+*.h5ad
+*.csv
+
+# Temporary Word/Excel files
+~$*.docx
+~$*.xlsx
+
+# Environment files (optional if using environment.yml)
+env/
